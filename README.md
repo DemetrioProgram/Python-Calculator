@@ -1,2 +1,2 @@
 # Python-Calculator
-Obrigado pro vir!!
+Em aprendizado.Em avolução.
