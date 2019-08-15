@@ -1,2 +1,2 @@
 # Python-Calculator
-Em aprendizado.Em evolução.
+Em aprendizado.Em evolução
